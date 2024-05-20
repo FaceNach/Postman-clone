@@ -10,3 +10,15 @@ C:\Users\Usuario\Desktop\Proyecto\Postman Clone\PostmanCloneApp\PostmanCloneLibr
 C:\Users\Usuario\Desktop\Proyecto\Postman Clone\PostmanCloneApp\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.pdb
 C:\Users\Usuario\Desktop\Proyecto\Postman Clone\PostmanCloneApp\PostmanCloneLibrary\obj\Debug\net8.0\ref\PostmanCloneLibrary.dll
 C:\Users\Usuario\Desktop\Proyecto\Postman Clone\PostmanCloneApp\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.sourcelink.json
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\bin\Debug\net8.0\PostmanCloneLibrary.deps.json
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\bin\Debug\net8.0\PostmanCloneLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\bin\Debug\net8.0\PostmanCloneLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.sourcelink.json
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\refint\PostmanCloneLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\PostmanCloneLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\Todo\Proyectos\Postman Clone\Postman-clone-\PostmanCloneLibrary\obj\Debug\net8.0\ref\PostmanCloneLibrary.dll

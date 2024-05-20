@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneUI\\PostmanCloneUI.csproj": {}
+    "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\PostmanCloneUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj": {
+    "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj",
         "projectName": "PostmanCloneLibrary",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneLibrary\\obj\\",
+        "projectPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -64,24 +64,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneUI\\PostmanCloneUI.csproj": {
+    "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\PostmanCloneUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneUI\\PostmanCloneUI.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\PostmanCloneUI.csproj",
         "projectName": "PostmanCloneUI",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneUI\\PostmanCloneUI.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneUI\\obj\\",
+        "projectPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\PostmanCloneUI.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -96,8 +96,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj": {
-                "projectPath": "C:\\Users\\Usuario\\Desktop\\Proyecto\\Postman Clone\\PostmanCloneApp\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj"
+              "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj": {
+                "projectPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\PostmanCloneLibrary.csproj"
               }
             }
           }
@@ -135,7 +135,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
