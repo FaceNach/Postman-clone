@@ -6,7 +6,7 @@ namespace PostmanCloneLibrary;
 public class ApiAccess : IApiAccess
 {
 	private readonly HttpClient client = new HttpClient();
-    public async Task<string> CallApiAsync(string url,string content, HttpAction action = HttpAction.GET, bool formatOutput = true)
+    public async Task<string> CallApiAsync(string url ,string content, HttpAction action = HttpAction.GET, bool formatOutput = true)
 	{
 		StringContent stringContent = new StringContent(content, Encoding.UTF8, "application/json");
 		return await CallApiAsync(url, stringContent, action, formatOutput);
@@ -25,7 +25,16 @@ public class ApiAccess : IApiAccess
 			case HttpAction.POST:
 				response = await client.PostAsync(url, content);
 				break;
-			default:
+            case HttpAction.PUT:
+                response = await client.PutAsync(url, content);
+                break;
+            case HttpAction.PATCH:
+                response = await client.PatchAsync(url, content);
+                break;
+            case HttpAction.DELETE:
+                response = await client.DeleteAsync(url);
+                break;
+            default:
 				throw new ArgumentOutOfRangeException(nameof(action), action, null);
 		}
 
@@ -34,8 +43,8 @@ public class ApiAccess : IApiAccess
 			string json = await response.Content.ReadAsStringAsync();
 			if (formatOutput)
 			{
-				var jsonElemet = JsonSerializer.Deserialize<JsonElement>(json);
-				json = JsonSerializer.Serialize(jsonElemet, new JsonSerializerOptions { WriteIndented = true });
+				var jsonElement = JsonSerializer.Deserialize<JsonElement>(json);
+				json = JsonSerializer.Serialize(jsonElement, new JsonSerializerOptions { WriteIndented = true });
 			}
 
 			return json;

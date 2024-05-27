@@ -7,28 +7,16 @@
       "RelativeMoniker": "D:0:0:{5E5ACBE3-1713-4ED0-85CC-9A4011533389}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|solutionrelative:postmanclonelibrary\\apiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E5ACBE3-1713-4ED0-85CC-9A4011533389}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\postman clone\\postman-clone-\\postmanclonelibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E5ACBE3-1713-4ED0-85CC-9A4011533389}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|solutionrelative:postmanclonelibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0D46064E-22DE-4795-9A83-938A528610A3}|PostmanCloneUI\\PostmanCloneUI.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\postman clone\\postman-clone-\\postmancloneui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D46064E-22DE-4795-9A83-938A528610A3}|PostmanCloneUI\\PostmanCloneUI.csproj|solutionrelative:postmancloneui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D46064E-22DE-4795-9A83-938A528610A3}|PostmanCloneUI\\PostmanCloneUI.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\postman clone\\postman-clone-\\postmancloneui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D46064E-22DE-4795-9A83-938A528610A3}|PostmanCloneUI\\PostmanCloneUI.csproj|solutionrelative:postmancloneui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D46064E-22DE-4795-9A83-938A528610A3}|PostmanCloneUI\\PostmanCloneUI.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\postman clone\\postman-clone-\\postmancloneui\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D46064E-22DE-4795-9A83-938A528610A3}|PostmanCloneUI\\PostmanCloneUI.csproj|solutionrelative:postmancloneui\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E5ACBE3-1713-4ED0-85CC-9A4011533389}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\postman clone\\postman-clone-\\postmanclonelibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5ACBE3-1713-4ED0-85CC-9A4011533389}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|solutionrelative:postmanclonelibrary\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D46064E-22DE-4795-9A83-938A528610A3}|PostmanCloneUI\\PostmanCloneUI.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\postman clone\\postman-clone-\\postmancloneui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D46064E-22DE-4795-9A83-938A528610A3}|PostmanCloneUI\\PostmanCloneUI.csproj|solutionrelative:postmancloneui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E5ACBE3-1713-4ED0-85CC-9A4011533389}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|c:\\users\\ignac\\onedrive\\escritorio\\todo\\proyectos\\postman clone\\postman-clone-\\postmanclonelibrary\\iapiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E5ACBE3-1713-4ED0-85CC-9A4011533389}|PostmanCloneLibrary\\PostmanCloneLibrary.csproj|solutionrelative:postmanclonelibrary\\iapiaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,71 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\Enums.cs",
-              "RelativeDocumentMoniker": "PostmanCloneLibrary\\Enums.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\Enums.cs",
-              "RelativeToolTip": "PostmanCloneLibrary\\Enums.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:58:17.982Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.cs",
-              "RelativeDocumentMoniker": "PostmanCloneUI\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.cs",
-              "RelativeToolTip": "PostmanCloneUI\\Dashboard.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:18:07.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Program.cs",
-              "RelativeDocumentMoniker": "PostmanCloneUI\\Program.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Program.cs",
-              "RelativeToolTip": "PostmanCloneUI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:17:52.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dashboard.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.Designer.cs",
-              "RelativeDocumentMoniker": "PostmanCloneUI\\Dashboard.Designer.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.Designer.cs",
-              "RelativeToolTip": "PostmanCloneUI\\Dashboard.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:16:20.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dashboard.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.cs",
-              "RelativeDocumentMoniker": "PostmanCloneUI\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PostmanCloneUI\\Dashboard.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:16:06.583Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -112,23 +44,48 @@
               "RelativeDocumentMoniker": "PostmanCloneLibrary\\ApiAccess.cs",
               "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\ApiAccess.cs",
               "RelativeToolTip": "PostmanCloneLibrary\\ApiAccess.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:14:42.334Z",
+              "WhenOpened": "2024-05-27T19:19:15.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IApiAccess.cs",
-              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\IApiAccess.cs",
-              "RelativeDocumentMoniker": "PostmanCloneLibrary\\IApiAccess.cs",
-              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\IApiAccess.cs",
-              "RelativeToolTip": "PostmanCloneLibrary\\IApiAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "DocumentIndex": 2,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\Enums.cs",
+              "RelativeDocumentMoniker": "PostmanCloneLibrary\\Enums.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneLibrary\\Enums.cs",
+              "RelativeToolTip": "PostmanCloneLibrary\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:38:39.726Z",
+              "WhenOpened": "2024-05-27T19:17:46.685Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PostmanCloneUI\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.cs",
+              "RelativeToolTip": "PostmanCloneUI\\Dashboard.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:17:44.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "PostmanCloneUI\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Todo\\Proyectos\\Postman Clone\\Postman-clone-\\PostmanCloneUI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "PostmanCloneUI\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T19:17:41.679Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
